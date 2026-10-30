@@ -7,6 +7,6 @@ boton.addEventListener("click",function(){
         document.getElementById("resultado").textContent="Por favor, escribe tu nombre: ";
 
     }else{ 
-        document.getElementById("resultado").textContent = "¡Hola," + nombre + "Bienvenido a la programación.! ";
+        document.getElementById("resultado").textContent = "Hola," + nombre + "Bienvenido a la programación. ";
           }
 });
